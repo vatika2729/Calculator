@@ -32,6 +32,10 @@
     border: 1.5px solid grey;
     margin-bottom: 10px;
     background-color: aliceblue;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+
 }
 
 button {
